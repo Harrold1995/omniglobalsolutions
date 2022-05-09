@@ -1,0 +1,62 @@
+body {
+  background: #fff;
+  font-family: 'Urbanist', sans-serif;
+  font-size: calc(0.75em + 1vmin);
+}
+
+.navbar {
+  margin-bottom: 30px;
+}
+
+.ogs-custom-font-m{
+  font-size: 16px;
+  font-weight: 600;
+  letter-spacing: 2px;
+}
+.ogs-custom-navbar{
+  padding-left: 5%;
+  padding-right: 5%;
+  background: #F8F8F8;
+}
+
+.ogs-nav-list{
+  padding-right: 1vw;
+}
+
+.ogs-contents{
+  margin-top: 70px;
+}
+
+.btn-primary{
+  background: #1a1f9f;
+  border: #1a1f9f;
+  box-shadow: 5px 8px 8px #1a1f9f41;
+}
+
+.ogs-dark{
+  color: #F8F8F8;
+  background: #000000;
+  background: -webkit-linear-gradient(to left, #434343, #000000);
+  background: linear-gradient(to left, #434343, #000000);
+}
+
+.ogs-blue-grain{
+  background-image: url("/assets//brand/grain-blue.jpg");
+}
+
+.ogs-blue{
+  color: #F8F8F8;
+  background-repeat: no-repeat;
+  background: #1a1f9f;
+  background-image: linear-gradient(to right bottom, #2375d8, #1566cf, #0b57c6, #0947bb, #1037b0, #1c2fab, #2527a6, #2c1da0, #361ba1, #3f19a2, #4717a3, #4f14a4) fixed;
+}
+
+
+.ogs-moving-bg{
+  color: #F8F8F8;
+  background: #1a1f9f;
+  background-position: center;
+  background-size:cover;
+  background-image: url("/assets/brand/moving-bg-4.gif");
+}
+
